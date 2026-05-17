@@ -20149,6 +20149,19 @@
   "faucets": [],
   "infoURL": "https://monad.xyz"
 }, {
+  "name": "MACos Chain",
+  "chainId": 20261,
+  "shortName": "macos",
+  "networkId": 20261,
+  "nativeCurrency": {
+    "name": "MACos Coin",
+    "symbol": "MCOS",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc1.codeupp.xyz"],
+  "faucets": [],
+  "infoURL": "https://macosscan.codeupp.xyz"
+}, {
   "name": "XUSD ONE StableChain Mainnet",
   "chainId": 20441,
   "shortName": "xusd",

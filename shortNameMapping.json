@@ -1549,6 +1549,7 @@
   "niza": "eip155:20041",
   "niza_testnet": "eip155:20073",
   "mon-devnet": "eip155:20143",
+  "macos": "eip155:20261",
   "xusd": "eip155:20441",
   "CLOTestnet": "eip155:20729",
   "p12": "eip155:20736",
