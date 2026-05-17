@@ -11933,6 +11933,19 @@
   "faucets": [],
   "infoURL": "https://filecoin.io"
 }, {
+  "name": "XO Market",
+  "chainId": 3223,
+  "shortName": "xo",
+  "networkId": 3223,
+  "nativeCurrency": {
+    "name": "XO",
+    "symbol": "XO",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-mainnet-2.xo.market/"],
+  "faucets": [],
+  "infoURL": "https://xo.market"
+}, {
   "name": "C9XChain",
   "chainId": 3230,
   "shortName": "c9xchain",

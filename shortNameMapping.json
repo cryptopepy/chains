@@ -917,6 +917,7 @@
   "tSAVM": "eip155:3110",
   "alpha": "eip155:3111",
   "filecoin-hyperspace": "eip155:3141",
+  "xo": "eip155:3223",
   "c9xchain": "eip155:3230",
   "dubx": "eip155:3269",
   "testdubx": "eip155:3270",
