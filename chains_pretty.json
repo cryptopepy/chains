@@ -29391,7 +29391,7 @@
   }, {
     "name": "EIP1559"
   }],
-  "faucets": [],
+  "faucets": ["https://jinglex.net/faucet"],
   "nativeCurrency": {
     "name": "JingleX",
     "symbol": "JNX",
@@ -29402,7 +29402,11 @@
   "chainId": 9922,
   "networkId": 9922,
   "slip44": 60,
-  "explorers": []
+  "explorers": [{
+    "name": "JingleX Explorer",
+    "url": "https://jinglex.net/explorer",
+    "standard": "none"
+  }]
 }, {
   "name": "UXER TESTNET NETWORK",
   "chain": "UXER",

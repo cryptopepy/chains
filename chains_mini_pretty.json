@@ -17806,7 +17806,7 @@
     "decimals": 18
   },
   "rpc": ["https://rpc.jinglex.net"],
-  "faucets": [],
+  "faucets": ["https://jinglex.net/faucet"],
   "infoURL": "https://jinglex.net"
 }, {
   "name": "UXER TESTNET NETWORK",
