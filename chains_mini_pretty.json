@@ -19538,9 +19538,9 @@
   "faucets": [],
   "infoURL": "https://0g.ai"
 }, {
-  "name": "0G-Testnet-Galileo",
+  "name": "0G Galileo Testnet",
   "chainId": 16602,
-  "shortName": "0g-testnet-galileo",
+  "shortName": "0g-galileo-testnet",
   "networkId": 16602,
   "nativeCurrency": {
     "name": "0G",
@@ -19548,7 +19548,7 @@
     "decimals": 18
   },
   "rpc": ["https://evmrpc-testnet.0g.ai"],
-  "faucets": ["https://faucet.0g.ai"],
+  "faucets": ["https://faucet.0g.ai", "https://cloud.google.com/application/web3/faucet/0g/galileo"],
   "infoURL": "https://0g.ai"
 }, {
   "name": "0G Mainnet",

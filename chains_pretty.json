@@ -32212,22 +32212,28 @@
   "icon": "0gai",
   "explorers": []
 }, {
-  "name": "0G-Testnet-Galileo",
-  "chain": "0G-Testnet",
+  "name": "0G Galileo Testnet",
+  "chain": "0G",
   "rpc": ["https://evmrpc-testnet.0g.ai"],
-  "faucets": ["https://faucet.0g.ai"],
+  "features": [{
+    "name": "EIP155"
+  }, {
+    "name": "EIP1559"
+  }],
+  "faucets": ["https://faucet.0g.ai", "https://cloud.google.com/application/web3/faucet/0g/galileo"],
   "nativeCurrency": {
     "name": "0G",
     "symbol": "0G",
     "decimals": 18
   },
   "infoURL": "https://0g.ai",
-  "shortName": "0g-testnet-galileo",
+  "shortName": "0g-galileo-testnet",
   "chainId": 16602,
   "networkId": 16602,
+  "slip44": 1,
   "icon": "0g",
   "explorers": [{
-    "name": "0G BlockChain Explorer",
+    "name": "0G Chainscan",
     "url": "https://chainscan-galileo.0g.ai",
     "standard": "EIP3091"
   }]
@@ -32235,6 +32241,11 @@
   "name": "0G Mainnet",
   "chain": "0G",
   "rpc": ["https://evmrpc.0g.ai"],
+  "features": [{
+    "name": "EIP155"
+  }, {
+    "name": "EIP1559"
+  }],
   "faucets": [],
   "nativeCurrency": {
     "name": "0G",
@@ -32247,7 +32258,7 @@
   "networkId": 16661,
   "icon": "0g",
   "explorers": [{
-    "name": "0G BlockChain Explorer",
+    "name": "0G Chainscan",
     "url": "https://chainscan.0g.ai",
     "standard": "EIP3091"
   }]
