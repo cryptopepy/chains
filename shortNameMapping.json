@@ -310,6 +310,7 @@
   "zkamoeba": "eip155:381",
   "lisinski": "eip155:385",
   "zkCRO": "eip155:388",
+  "lnr": "eip155:389",
   "camdl-testnet": "eip155:395",
   "near": "eip155:397",
   "near-testnet": "eip155:398",

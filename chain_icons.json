@@ -9059,6 +9059,14 @@
     "format": "png"
   }]
 }, {
+  "name": "lunaro",
+  "icons": [{
+    "url": "ipfs://bafkreicskexsgh2atpmhuljlmntpeaisy2hwgt3lt5zhpiuvyx5fdbx6km",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "cytonic_l1",
   "icons": [{
     "url": "ipfs://QmWASoRS8k7YspDLiwz5xfpusBtqHwy5hR5B9NynGx8HGt",

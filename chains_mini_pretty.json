@@ -4042,6 +4042,19 @@
   "faucets": [],
   "infoURL": "https://cronos.org/zkevm"
 }, {
+  "name": "LunaroChain Mainnet",
+  "chainId": 389,
+  "shortName": "lnr",
+  "networkId": 389,
+  "nativeCurrency": {
+    "name": "Lunaro",
+    "symbol": "LNR",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.lunaro.network"],
+  "faucets": [],
+  "infoURL": "https://lunaro.network"
+}, {
   "name": "CamDL Testnet",
   "chainId": 395,
   "shortName": "camdl-testnet",
