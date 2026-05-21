@@ -229,6 +229,7 @@
   "ethernity-testnet": "eip155:233",
   "ProtoJumbo": "eip155:234",
   "deamtest": "eip155:236",
+  "aer": "eip155:237",
   "blast": "eip155:238",
   "tacchain_239-1": "eip155:239",
   "zkTCRO": "eip155:240",

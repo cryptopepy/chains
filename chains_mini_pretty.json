@@ -2989,6 +2989,19 @@
   "faucets": ["https://faucet.deamchain.com"],
   "infoURL": "https://deamchain.com"
 }, {
+  "name": "AEREDIUM",
+  "chainId": 237,
+  "shortName": "aer",
+  "networkId": 237,
+  "nativeCurrency": {
+    "name": "AER",
+    "symbol": "AER",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.aeredium.io"],
+  "faucets": [],
+  "infoURL": "https://aeredium.io"
+}, {
   "name": "Blast Mainnet",
   "chainId": 238,
   "shortName": "blast",

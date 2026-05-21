@@ -7,6 +7,14 @@
     "format": "png"
   }]
 }, {
+  "name": "bexchain",
+  "icons": [{
+    "url": "ipfs://bafkreiblcantqquxetwvxuj3roy5x4rkokhiddhyisa675pynztbs6okrm",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  }]
+}, {
   "name": "shyft",
   "icons": [{
     "url": "ipfs://QmUkFZC2ZmoYPTKf7AHdjwRPZoV2h1MCuHaGM4iu8SNFpi",
@@ -4394,6 +4402,14 @@
     "url": "ipfs://QmeGtXdTHHMnf6rWUWFcefMGaVp7dJ6SWNgxgbVgm9YHTZ",
     "width": 192,
     "height": 192,
+    "format": "png"
+  }]
+}, {
+  "name": "aeredium",
+  "icons": [{
+    "url": "ipfs://QmdgJ7rPvUdnGnKowPKYo5e9oaPytVXV5cXd8fmAtVQKRY",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
