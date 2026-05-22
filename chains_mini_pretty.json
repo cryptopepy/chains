@@ -25440,6 +25440,19 @@
   "faucets": ["https://www.campnetwork.xyz/faucet"],
   "infoURL": "https://campaign-1.gitbook.io/camp-technical-docså"
 }, {
+  "name": "QuantumBit",
+  "chainId": 90909,
+  "shortName": "qb",
+  "networkId": 90909,
+  "nativeCurrency": {
+    "name": "QuantumBit",
+    "symbol": "QB",
+    "decimals": 18
+  },
+  "rpc": ["https://quantumbit.foo/rpc"],
+  "faucets": [],
+  "infoURL": "https://quantumbit.foo"
+}, {
   "name": "Nautilus Trition Chain",
   "chainId": 91002,
   "shortName": "NAUT",

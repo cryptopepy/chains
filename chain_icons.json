@@ -815,6 +815,14 @@
     "format": "png"
   }]
 }, {
+  "name": "quantumbit",
+  "icons": [{
+    "url": "ipfs://QmZY4rJ9xXJdP6S1ZuyrHZjM4b2gDrBHV5sCVWRt8dtgkv",
+    "width": 1254,
+    "height": 1254,
+    "format": "png"
+  }]
+}, {
   "name": "binary",
   "icons": [{
     "url": "ipfs://bafybeifb4vnpn3jv7cfdlne2dwhe6agdnpgmu46a7nbc5divjuyaznkyay",

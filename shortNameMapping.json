@@ -1956,6 +1956,7 @@
   "UBITSCAN": "eip155:90002",
   "bvhl": "eip155:90210",
   "camp": "eip155:90354",
+  "qb": "eip155:90909",
   "NAUT": "eip155:91002",
   "henez": "eip155:91111",
   "MetaDAP": "eip155:91120",
