@@ -4653,6 +4653,19 @@
   "faucets": [],
   "infoURL": "https://optrust.io"
 }, {
+  "name": "Nome Progetto Privato",
+  "chainId": 540,
+  "shortName": "besu-priv-540",
+  "networkId": 540,
+  "nativeCurrency": {
+    "name": "YourToken",
+    "symbol": "YTK",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://www.tuosito.it"
+}, {
   "name": "PAWCHAIN Testnet",
   "chainId": 542,
   "shortName": "PAW",
