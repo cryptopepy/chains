@@ -28066,6 +28066,19 @@
   "faucets": [],
   "infoURL": "https://althea.net"
 }, {
+  "name": "MPCQ Mainnet",
+  "chainId": 262144,
+  "shortName": "mpcq",
+  "networkId": 262144,
+  "nativeCurrency": {
+    "name": "MPCQ",
+    "symbol": "MPCQ",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.moneypoolscash.com"],
+  "faucets": [],
+  "infoURL": "https://moneypoolscash.com"
+}, {
   "name": "Eclat Testnet",
   "chainId": 262371,
   "shortName": "tECLAT",

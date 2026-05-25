@@ -46699,6 +46699,20 @@
     "standard": "none"
   }]
 }, {
+  "name": "MPCQ Mainnet",
+  "chain": "MPCQ",
+  "rpc": ["https://rpc.moneypoolscash.com"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "MPCQ",
+    "symbol": "MPCQ",
+    "decimals": 18
+  },
+  "infoURL": "https://moneypoolscash.com",
+  "shortName": "mpcq",
+  "chainId": 262144,
+  "networkId": 262144
+}, {
   "name": "Eclat Testnet",
   "chain": "Eclat",
   "icon": "eclat",
