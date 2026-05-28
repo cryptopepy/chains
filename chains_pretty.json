@@ -7770,18 +7770,18 @@
     "standard": "none"
   }]
 }, {
-  "name": "Nome Progetto Privato",
+  "name": "Pontes-Appia DLT",
   "chain": "BESU",
   "icon": "ethereum",
   "rpc": [],
   "faucets": [],
   "nativeCurrency": {
-    "name": "YourToken",
-    "symbol": "YTK",
+    "name": "AppiaToken",
+    "symbol": "ATK",
     "decimals": 18
   },
   "infoURL": "https://www.tuosito.it",
-  "shortName": "besu-priv-540",
+  "shortName": "appia-540",
   "chainId": 540,
   "networkId": 540,
   "explorers": []
