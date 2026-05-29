@@ -22866,6 +22866,19 @@
   "faucets": [],
   "infoURL": ""
 }, {
+  "name": "Mantle Hoodi Testnet",
+  "chainId": 50002,
+  "shortName": "mnt-hoodi",
+  "networkId": 50002,
+  "nativeCurrency": {
+    "name": "Hoodi Mantle",
+    "symbol": "MNT",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.hoodi.mantle.xyz"],
+  "faucets": ["https://faucet.mantle.xyz"],
+  "infoURL": "https://mantle.xyz"
+}, {
   "name": "Yooldo Verse Mainnet",
   "chainId": 50005,
   "shortName": "YVM",
@@ -31810,6 +31823,19 @@
   "faucets": [],
   "infoURL": "https://iolite.io"
 }, {
+  "name": "Crynux on Base",
+  "chainId": 18896214,
+  "shortName": "crynux-base",
+  "networkId": 18896214,
+  "nativeCurrency": {
+    "name": "Crynux",
+    "symbol": "CNX",
+    "decimals": 18
+  },
+  "rpc": ["https://json-rpc.base.crynux.io"],
+  "faucets": [],
+  "infoURL": "https://crynux.io"
+}, {
   "name": "DeepBrainChain Testnet",
   "chainId": 19850818,
   "shortName": "tDBC",
@@ -32732,6 +32758,19 @@
   "rpc": ["https://sepolia.blast.io", "https://blast-sepolia.drpc.org", "wss://blast-sepolia.drpc.org"],
   "faucets": ["https://faucet.quicknode.com/blast/sepolia"],
   "infoURL": "https://blast.io/"
+}, {
+  "name": "Crynux on Base Sepolia",
+  "chainId": 188962142,
+  "shortName": "crynux-base-sepolia",
+  "networkId": 188962142,
+  "nativeCurrency": {
+    "name": "Sepolia Crynux",
+    "symbol": "CNX",
+    "decimals": 18
+  },
+  "rpc": ["https://json-rpc.base-sepolia.crynux.io"],
+  "faucets": [],
+  "infoURL": "https://crynux.io"
 }, {
   "name": "Gather Mainnet Network",
   "chainId": 192837465,

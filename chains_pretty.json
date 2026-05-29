@@ -37945,6 +37945,26 @@
   "networkId": 50001,
   "explorers": []
 }, {
+  "name": "Mantle Hoodi Testnet",
+  "chain": "ETH",
+  "rpc": ["https://rpc.hoodi.mantle.xyz"],
+  "faucets": ["https://faucet.mantle.xyz"],
+  "nativeCurrency": {
+    "name": "Hoodi Mantle",
+    "symbol": "MNT",
+    "decimals": 18
+  },
+  "infoURL": "https://mantle.xyz",
+  "shortName": "mnt-hoodi",
+  "chainId": 50002,
+  "networkId": 50002,
+  "slip44": 1,
+  "explorers": [{
+    "name": "blockscout",
+    "url": "https://explorer.hoodi.mantle.xyz",
+    "standard": "EIP3091"
+  }]
+}, {
   "name": "Yooldo Verse Mainnet",
   "chain": "Yooldo Verse",
   "icon": "yooldo_verse",
@@ -53169,6 +53189,26 @@
   "chainId": 18289463,
   "networkId": 18289463
 }, {
+  "name": "Crynux on Base",
+  "chain": "ETH",
+  "rpc": ["https://json-rpc.base.crynux.io"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Crynux",
+    "symbol": "CNX",
+    "decimals": 18
+  },
+  "infoURL": "https://crynux.io",
+  "shortName": "crynux-base",
+  "chainId": 18896214,
+  "networkId": 18896214,
+  "icon": "crynux",
+  "explorers": [],
+  "parent": {
+    "type": "L2",
+    "chain": "eip155-8453"
+  }
+}, {
   "name": "DeepBrainChain Testnet",
   "chain": "DeepBrainChain",
   "rpc": ["https://rpc-testnet.dbcwallet.io"],
@@ -54725,6 +54765,26 @@
   "parent": {
     "type": "L2",
     "chain": "eip155-11155111"
+  }
+}, {
+  "name": "Crynux on Base Sepolia",
+  "chain": "ETH",
+  "rpc": ["https://json-rpc.base-sepolia.crynux.io"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Sepolia Crynux",
+    "symbol": "CNX",
+    "decimals": 18
+  },
+  "infoURL": "https://crynux.io",
+  "shortName": "crynux-base-sepolia",
+  "chainId": 188962142,
+  "networkId": 188962142,
+  "icon": "crynux",
+  "explorers": [],
+  "parent": {
+    "type": "L2",
+    "chain": "eip155-84532"
   }
 }, {
   "name": "Gather Mainnet Network",
