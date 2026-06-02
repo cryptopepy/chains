@@ -11751,7 +11751,7 @@
   "faucets": [],
   "infoURL": "https://morphl2.io"
 }, {
-  "name": "Candy Chain",
+  "name": "CandyChain",
   "chainId": 2828,
   "shortName": "candy",
   "networkId": 2828,
@@ -14637,13 +14637,13 @@
   "faucets": ["https://faucet.dukong.mantrachain.io"],
   "infoURL": "https://mantrachain.io"
 }, {
-  "name": "MANTRACHAIN Mainnet",
+  "name": "MANTRA Chain",
   "chainId": 5888,
-  "shortName": "mantrachain",
+  "shortName": "mantra",
   "networkId": 5888,
   "nativeCurrency": {
-    "name": "OM",
-    "symbol": "OM",
+    "name": "MANTRA",
+    "symbol": "MANTRA",
     "decimals": 18
   },
   "rpc": ["https://evm.mantrachain.io", "wss://evm.mantrachain.io/ws"],

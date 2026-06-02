@@ -19396,8 +19396,11 @@
     }]
   }
 }, {
-  "name": "Candy Chain",
+  "name": "CandyChain",
+  "shortName": "candy",
   "chain": "CANDY",
+  "chainId": 2828,
+  "networkId": 2828,
   "rpc": ["https://publicrpc.candychain.io"],
   "faucets": [],
   "nativeCurrency": {
@@ -19405,15 +19408,12 @@
     "symbol": "CANDY",
     "decimals": 18
   },
-  "infoURL": "https://candychain.io",
-  "shortName": "candy",
-  "chainId": 2828,
-  "networkId": 2828,
   "explorers": [{
-    "name": "Candy Chain Explorer",
-    "url": "https://explorer.candychain.io",
+    "name": "CandyChain Explorer",
+    "url": "https://streams.candychain.io",
     "standard": "EIP3091"
-  }]
+  }],
+  "infoURL": "https://candychain.io"
 }, {
   "name": "HyperAGI Mainnet",
   "chain": "HyperAGI",
@@ -24220,25 +24220,25 @@
     "icon": "mantra"
   }]
 }, {
-  "name": "MANTRACHAIN Mainnet",
-  "chain": "MANTRACHAIN",
+  "name": "MANTRA Chain",
+  "chain": "MANTRA",
   "rpc": ["https://evm.mantrachain.io", "wss://evm.mantrachain.io/ws"],
   "faucets": [],
   "nativeCurrency": {
-    "name": "OM",
-    "symbol": "OM",
+    "name": "MANTRA",
+    "symbol": "MANTRA",
     "decimals": 18
   },
   "infoURL": "https://mantrachain.io",
-  "shortName": "mantrachain",
+  "shortName": "mantra",
   "chainId": 5888,
   "networkId": 5888,
   "slip44": 1,
   "icon": "om",
   "explorers": [{
-    "name": "MANTRACHAIN Explorer",
-    "url": "http://mantrascan.io",
-    "standard": "none",
+    "name": "MANTRA Explorer",
+    "url": "https://blockscout.mantrascan.io",
+    "standard": "EIP3091",
     "icon": "om"
   }]
 }, {
