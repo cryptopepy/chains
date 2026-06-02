@@ -28040,6 +28040,19 @@
   "faucets": [],
   "infoURL": "https://orangechain.xyz"
 }, {
+  "name": "HIPERCAPITAL FINANCE Chain",
+  "chainId": 240884,
+  "shortName": "hipcf",
+  "networkId": 240884,
+  "nativeCurrency": {
+    "name": "HIPERCAPITAL FINANCE Token",
+    "symbol": "HIP",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.hipercapitalfinance.com"],
+  "faucets": [],
+  "infoURL": "https://hipercapitalfinance.com"
+}, {
   "name": "Anomaly Andromeda Testnet",
   "chainId": 241120,
   "shortName": "anomaly-andromeda-testnet",
