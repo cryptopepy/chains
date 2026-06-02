@@ -3873,6 +3873,19 @@
   "faucets": [],
   "infoURL": "https://www.trias.one"
 }, {
+  "name": "ACME stealth testnet",
+  "chainId": 355,
+  "shortName": "acme-testnet",
+  "networkId": 355,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": ""
+}, {
   "name": "Shape",
   "chainId": 360,
   "shortName": "shape",
@@ -16534,6 +16547,19 @@
   "rpc": ["https://public-en.node.kaia.io"],
   "faucets": [],
   "infoURL": "https://kaia.io"
+}, {
+  "name": "ACME Mainnet Stealth",
+  "chainId": 8224,
+  "shortName": "acme-mainnet",
+  "networkId": 8224,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": ""
 }, {
   "name": "Space Subnet",
   "chainId": 8227,

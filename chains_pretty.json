@@ -6411,6 +6411,21 @@
     "standard": "none"
   }]
 }, {
+  "name": "ACME stealth testnet",
+  "chain": "AST",
+  "rpc": [],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "infoURL": "",
+  "shortName": "acme-testnet",
+  "chainId": 355,
+  "networkId": 355,
+  "explorers": []
+}, {
   "name": "Shape",
   "chain": "ETH",
   "rpc": ["https://mainnet.shape.network", "https://shape-mainnet.g.alchemy.com/public"],
@@ -27356,6 +27371,21 @@
     "url": "https://kaiascan.io",
     "standard": "EIP3091"
   }]
+}, {
+  "name": "ACME Mainnet Stealth",
+  "chain": "ASM",
+  "rpc": [],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "infoURL": "",
+  "shortName": "acme-mainnet",
+  "chainId": 8224,
+  "networkId": 8224,
+  "explorers": []
 }, {
   "name": "Space Subnet",
   "chain": "SPACE",
