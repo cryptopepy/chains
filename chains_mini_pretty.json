@@ -8230,11 +8230,11 @@
 }, {
   "name": "Elysium Mainnet",
   "chainId": 1339,
-  "shortName": "ELY",
+  "shortName": "PYR",
   "networkId": 1339,
   "nativeCurrency": {
-    "name": "ELY",
-    "symbol": "ELY",
+    "name": "PYR",
+    "symbol": "PYR",
     "decimals": 18
   },
   "rpc": ["https://rpc.elysiumchain.tech", "https://rpc.elysiumchain.us"],
