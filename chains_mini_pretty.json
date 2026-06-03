@@ -19460,6 +19460,19 @@
   "faucets": [],
   "infoURL": "https://kymaticscan.online"
 }, {
+  "name": "NirmalX Smart Chain",
+  "chainId": 15526,
+  "shortName": "nrxn",
+  "networkId": 15526,
+  "nativeCurrency": {
+    "name": "NirmalX Nova",
+    "symbol": "NRXN",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.nirmalxscan.com"],
+  "faucets": [],
+  "infoURL": "https://nirmalxscan.com/"
+}, {
   "name": "LoopNetwork Mainnet",
   "chainId": 15551,
   "shortName": "loop",

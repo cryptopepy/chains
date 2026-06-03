@@ -223,6 +223,14 @@
     "format": "png"
   }]
 }, {
+  "name": "nrxn",
+  "icons": [{
+    "url": "ipfs://bafybeib2n3272ga73alqnis6lsvlnjvt5hilihsf4yfxo4t7ebs6exejhm",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  }]
+}, {
   "name": "stoc",
   "icons": [{
     "url": "ipfs://QmYtRbecDtw3z4bCdW2xeTp2XEze8sm3jhQUgxvgRijabb",
