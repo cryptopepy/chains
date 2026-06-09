@@ -29886,6 +29886,19 @@
   "faucets": [],
   "infoURL": "https://oonechain.com"
 }, {
+  "name": "Unitsky String Technologies",
+  "chainId": 778889,
+  "shortName": "ust",
+  "networkId": 778889,
+  "nativeCurrency": {
+    "name": "Unitsky Token",
+    "symbol": "UST",
+    "decimals": 18
+  },
+  "rpc": ["https://147-45-143-23.sslip.io/rpc"],
+  "faucets": [],
+  "infoURL": "https://147-45-143-23.sslip.io"
+}, {
   "name": "Zebro Smart Chain",
   "chainId": 786786,
   "shortName": "zebro",
