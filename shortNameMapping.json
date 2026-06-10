@@ -717,6 +717,7 @@
   "HighOctane": "eip155:1853",
   "tsf": "eip155:1856",
   "soneium": "eip155:1868",
+  "wch-sepolia": "eip155:1874",
   "wbt": "eip155:1875",
   "xgrt": "eip155:1879",
   "gitshockchain": "eip155:1881",

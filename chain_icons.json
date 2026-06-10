@@ -9206,6 +9206,14 @@
     "format": "png"
   }]
 }, {
+  "name": "whitechain-sepolia",
+  "icons": [{
+    "url": "ipfs://QmYF9yMTjEGKCGnDr5TUFdDUX3oHyE2Gt4Yof8obJDvpLM",
+    "width": 256,
+    "height": 256,
+    "format": "png"
+  }]
+}, {
   "name": "NumBlock",
   "icons": [{
     "url": "ipfs://QmRY72AKDaUwxgPukdfSBj19NfMrmsSm48mdBe9zJcW3jB",

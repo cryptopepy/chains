@@ -9333,6 +9333,19 @@
   "faucets": [],
   "infoURL": "https://soneium.org"
 }, {
+  "name": "Whitechain Sepolia",
+  "chainId": 1874,
+  "shortName": "wch-sepolia",
+  "networkId": 1874,
+  "nativeCurrency": {
+    "name": "WBT",
+    "symbol": "WBT",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.testnet.whitechain.io"],
+  "faucets": ["https://faucet.testnet.whitechain.io"],
+  "infoURL": "https://docs.whitechain.io"
+}, {
   "name": "Whitechain",
   "chainId": 1875,
   "shortName": "wbt",
